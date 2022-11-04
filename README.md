@@ -1,2 +1,3 @@
 # Food-Ordering
 This if for ordering you favourite food that you desire and letting you know the total price
+The   "Online Food Ordering   System" has been   developed to override   the  problemsprevailing in the practicing manual system. This software is supported to eliminate and,in  some cases, reduce  the  hardships  faced   by this  existing  system.  Moreover,   thissystem is designed for the particular need of the company to carry out operations in asmooth and effective manner.The application is reduced as much as possible to avoid errors while entering the data.It  also   provides  error   message  while entering   invalid  data.  No  formal  knowledge  isneeded for the user to use this system. 
